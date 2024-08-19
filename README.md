@@ -11,7 +11,7 @@ https://github.com/FinHackCN/finhack
 ---
 
 
-# MYTT
+# MyTT
 https://github.com/LK791/MyTT
 
 真牛逼 ，，直接复刻通达信指标
