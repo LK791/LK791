@@ -15,10 +15,11 @@ https://github.com/LK791/MyTT
 真牛逼 ，，直接复刻通达信指标
 
 
+---
+
 # mootdx 
 这个库真牛逼  ，直接读取通达信数据
 库链接 https://github.com/LK791/mootdx
-
 ```python
 
 from mootdx.reader import Reader
