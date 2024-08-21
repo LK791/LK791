@@ -68,7 +68,7 @@ def DIFF(S, N=1):  # 前一个值减后一个值,前面会产生nan
 
 
 def STD(S, N):  # 求序列的N日标准差，返回序列
-    return pd.Series(S).rolling(N).std(ddof=0)。values
+    return pd.Series(S).rolling(N).std(ddof=0)
 
 
 def SUM(S, N):  # 对序列求N天累计和，返回序列    N=0对序列所有依次求和
