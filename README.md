@@ -53,3 +53,17 @@ exit()
 # 这个配置好了代码块，使用 mootdx，
 # 还有超级多的功能，还能读取实时数据，有点厉害了
 
+
+
+
+
+#  微软激活工具
+https://github.com/zbezj/HEU_KMS_Activator/releases
+
+
+
+
+
+
+# 
+
