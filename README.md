@@ -45,10 +45,10 @@ https://github.com/LK791/MyTT
 ---
 
 # mootdx 
-
 这个库真牛逼  ，直接读取通达信数据
 库链接 
 https://github.com/LK791/mootdx
+
 ```python
 
 from mootdx.reader import Reader
