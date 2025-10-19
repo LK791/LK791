@@ -4,31 +4,24 @@ https://github.com/barry-ran/QtScrcpy
 
 
 ---
-
-
 # 视频号 下载 工具
 https://github.com/ltaoo/wx_channels_download
 
 
 ---
-
 # 小红书 下载 工具 抖音下载工具 
 https://dy.kukutool.com/xiaohongshu
 
 ---
-
 # b站视频 下载
 https://github.com/iuroc/bilidown
- 
-很不错 <br> 牛逼。 
 
+很不错牛逼。 
 很好用
 
 
 
 ---
-
-
 # 量化
 
 https://github.com/FinHackCN/finhack
