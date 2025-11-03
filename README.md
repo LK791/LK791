@@ -1,4 +1,23 @@
 
+
+---
+# pc 投屏 接收屏幕 软件 
+
+投屏 
+https://github.com/LizardByte/Sunshine
+
+pc模拟屏幕信号
+https://github.com/nomi-san/parsec-vdd
+
+接收投屏
+https://github.com/moonlight-stream/moonlight-qt
+
+
+---
+
+
+
+
 # 手机投屏 软件 
 https://github.com/barry-ran/QtScrcpy
 
@@ -85,15 +104,6 @@ https://github.com/Z-Siqi/Clash-for-Windows_Chinese
 
 
 
-
----
-# pc 投屏 接收屏幕 软件 
-
-投屏 
-https://github.com/LizardByte/Sunshine
-
-接收投屏
-https://github.com/moonlight-stream/moonlight-qt
 
 
 
