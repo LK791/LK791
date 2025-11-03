@@ -86,7 +86,14 @@ https://github.com/Z-Siqi/Clash-for-Windows_Chinese
 
 
 
+---
+# pc 投屏 接受屏幕 软件 
 
+投屏 
+https://github.com/LizardByte/Sunshine
+
+接收投屏
+https://github.com/moonlight-stream/moonlight-qt
 
 
 
