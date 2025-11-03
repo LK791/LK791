@@ -87,7 +87,7 @@ https://github.com/Z-Siqi/Clash-for-Windows_Chinese
 
 
 ---
-# pc 投屏 接受屏幕 软件 
+# pc 投屏 接收屏幕 软件 
 
 投屏 
 https://github.com/LizardByte/Sunshine
