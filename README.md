@@ -35,6 +35,9 @@ https://dy.kukutool.com/xiaohongshu
 # b站视频 下载
 https://github.com/iuroc/bilidown
 
+https://github.com/ScottSloan/Bili23-Downloader
+这个也不错
+
 很不错牛逼。 
 很好用
 
