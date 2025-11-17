@@ -65,6 +65,11 @@ https://github.com/LK791/MyTT
 
 
 ---
+# pytdx 
+解说
+https://rainx.gitbooks.io/pytdx/content/pytdx_hq.html
+
+
 
 # mootdx 
 这个库真牛逼  ，直接读取通达信数据
