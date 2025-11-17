@@ -73,7 +73,7 @@ https://github.com/LK791/mootdx
 
 使用说明 
 mootdx使用说明
-
+https://www.bookstack.cn/read/mootdx-zh/9da803c192040a70.md
 ```python
 
 from mootdx.reader import Reader
