@@ -72,6 +72,8 @@ https://rainx.gitbooks.io/pytdx/content/pytdx_hq.html
 
 
 # mootdx 
+mootdx bestip -v 
+在终端上 运行测试线路
 这个库真牛逼  ，直接读取通达信数据
 库链接 
 https://github.com/LK791/mootdx
