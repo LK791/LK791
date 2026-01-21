@@ -125,6 +125,8 @@ https://github.com/zbezj/HEU_KMS_Activator/releases
 # 好用的梯子
 https://github.com/Z-Siqi/Clash-for-Windows_Chinese
 
+https://github.com/clash-verge-rev/clash-verge-rev
+
 
 
 
