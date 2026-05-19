@@ -32,6 +32,8 @@ https://github.com/barry-ran/QtScrcpy
 # 视频号 下载 工具
 https://github.com/ltaoo/wx_channels_download
 
+https://github.com/ltaoo/wx_channels_download
+
 
 ---
 # 小红书 下载 工具 抖音下载工具 
