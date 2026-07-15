@@ -1,4 +1,18 @@
 
+
+
+---
+# ai反代工具
+https://github.com/router-for-me/CLIProxyAPI
+
+https://github.com/jlcodes99/cockpit-tools
+
+
+
+
+
+
+
 ---
 # 听歌的，非常不错
 https://github.com/CharlesPikachu/musicdl?tab=readme-ov-file
