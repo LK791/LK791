@@ -4,7 +4,7 @@
 https://github.com/kangarooking/cangjie-skill/tree/main
 
 
--- 
+---
 # anki 制作卡片  python操控 
 https://github.com/amikey/anki-connect
 
