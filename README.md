@@ -1,4 +1,8 @@
 
+---
+# 仓颉skill  蒸馏书 蒸馏视频
+https://github.com/kangarooking/cangjie-skill/tree/main
+
 
 -- 
 # anki 制作卡片  python操控 
