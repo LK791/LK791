@@ -1,5 +1,10 @@
 
 ---
+# 大神skill 技能包
+https://github.com/mattpocock/skills
+
+
+---
 # 仓颉skill  蒸馏书 蒸馏视频
 https://github.com/kangarooking/cangjie-skill/tree/main
 
