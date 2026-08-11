@@ -17,6 +17,8 @@ https://github.com/kangarooking/cangjie-skill/tree/main
 book to skill
 https://github.com/virgiliojr94/book-to-skill
 
+---
+https://github.com/firecrawl/anydoc 识别成md
 
 ---
 # anki 制作卡片  python操控 
