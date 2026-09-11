@@ -67,6 +67,10 @@ https://github.com/moonlight-stream/moonlight-qt
 https://github.com/barry-ran/QtScrcpy
 
 
+
+---
+# 抖音 视频下载 
+https://github.com/jiji262/douyin-downloader
 ---
 # 视频号 下载 工具
 https://github.com/ltaoo/wx_channels_download
