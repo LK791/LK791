@@ -120,6 +120,16 @@ https://github.com/LK791/MyTT
 解说
 https://rainx.gitbooks.io/pytdx/content/pytdx_hq.html
 
+---
+# 同花顺sdk
+https://github.com/panghu11033/thsdk
+
+
+
+---
+
+
+
 
 
 # mootdx 
